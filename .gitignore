@@ -1,0 +1,13 @@
+# Eclipse
+.metadata/
+.classpath
+.project
+.settings/
+
+
+# SonarLint
+.sonarlint/
+*.lck
+
+# Unwanted files
+Notes.md 
