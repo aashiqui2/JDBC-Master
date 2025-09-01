@@ -4,10 +4,11 @@
 .project
 .settings/
 
-
 # SonarLint
 .sonarlint/
 *.lck
 
 # Unwanted files
-Notes.md 
+Notes.md
+image/
+*.sql
